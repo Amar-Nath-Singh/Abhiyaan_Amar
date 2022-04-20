@@ -1,0 +1,8 @@
+prefix=/home/amar/catkin_ws/devel
+
+Name: turtle_bot_sim
+Description: Description of turtle_bot_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
